@@ -6,7 +6,7 @@ session_start();
 <html>
     <head>
         <meta charset="utf-8"/>
-        <link rel="stylesheet" href="http://localhost:8888/tests/style.css">
+        <link rel="stylesheet" href="style.css">
         <title>Test Web-app</title>
         <script type="text/javascript" src="execvar.js"></script>
     </head>
