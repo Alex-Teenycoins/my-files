@@ -1,0 +1,58 @@
+body
+{
+	background-image: url("http://localhost:8888/tests/images/low_poly_background copy.jpg");
+	background-attachment: fixed;
+	background-repeat: repeat;
+}
+
+.centralBlock
+{
+	margin-top: 80px;
+}
+
+p
+{
+	font-size: large;
+	font-family: "Arial Black", sans-serif;
+	text-align: center;
+	color: white;
+}
+
+input[type="number"] {
+	width: 30px;
+	height: 20px;
+	text-align: center;
+}
+
+h1
+{
+	font-family: "Arial Black", sans-serif;
+	text-align: center;
+	color: white;
+	font-size: x-large;
+	margin-top: 40px;
+}
+
+.buttons
+{
+	margin-top: 60px;
+}
+
+.button_SignuUp
+{
+	text-align: center;
+	color:white;
+	margin-top: 80px;
+}
+
+.header_image
+{
+	text-align: center;
+}
+
+.msgfailAuth
+{
+	text-align: center;
+	color: red;
+	font-weight: bold;
+}
